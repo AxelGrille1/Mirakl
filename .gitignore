@@ -1,0 +1,5 @@
+# Ignore data files
+
+category_parent.csv
+data_test_final.csv
+data_train_final.csv
